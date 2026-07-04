@@ -1,0 +1,8 @@
+{
+  "name": "Malnad Homes",
+  "description": "Trusted accommodation platform for students and working professionals in the Malnad region. Find verified PGs, hostels, and rental flats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
